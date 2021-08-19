@@ -6,3 +6,4 @@ USB转接芯片: CH342F
 
 ![](1-tuya.png)
 ![](2-tuya.png)
+![](3-tuya.jpg)
